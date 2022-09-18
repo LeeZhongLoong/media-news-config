@@ -1,4 +1,4 @@
 blackIP:
   continueCounts: 50
-  timeInterval: 10
+  timeInterval: 30
   limitTimes: 521
